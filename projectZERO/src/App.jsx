@@ -11,11 +11,7 @@ function App() {
 
   return (
       <div>
-        <h1>Hi {newName}!</h1>
-        <Word/>
-        <SayMyName nome='Salazar'/>
-        <Pessoa name='Salazar' age='20' work='Programador' photo='https://picsum.photos/seed/picsum/200' />
-        <List/>
+        <h1>Event Test</h1>
       </div>
   )
 }
