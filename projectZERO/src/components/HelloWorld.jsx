@@ -1,13 +1,11 @@
-import World from "./World"
+import Word from "./Word"
 function HelloWorld(){
 
         return(
-            <>
                 <div>
-                    <h1>Hello World!</h1>
-                    <World/>
+                    <p>Hello World!</p>
+                    <Word/>
                 </div>
-            </>
         )
 }
 
